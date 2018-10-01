@@ -1,0 +1,38 @@
+[
+  {
+    "image_path": "1.png",
+    "d_name": "Заход на скамью с гантелями",
+    "number_approaches": "3",
+    "number_repetitions": "12"
+  },
+  {
+    "image_path": "2.png",
+    "d_name": "Становая тяга с гантелями",
+    "number_approaches": "3",
+    "number_repetitions": "12"
+  },
+  {
+    "image_path": "3.png",
+    "d_name": "Жим гантелей сидя",
+    "number_approaches": "3",
+    "number_repetitions": "12"
+  },
+  {
+    "image_path": "4.png",
+    "d_name": "Подъём на носки с гантелями с помощью подставки",
+    "number_approaches": "3",
+    "number_repetitions": "12"
+  },
+  {
+    "image_path": "5.png",
+    "d_name": "Шраги с гантелями",
+    "number_approaches": "3",
+    "number_repetitions": "15"
+  },
+  {
+    "image_path": "6.png",
+    "d_name": "Наклоны в сторону с гантелей",
+    "number_approaches": "3",
+    "number_repetitions": "15"
+  }
+]
